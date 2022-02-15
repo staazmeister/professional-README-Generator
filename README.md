@@ -48,6 +48,6 @@ node index.js
 
 
 ## Links to Application Video Demo and GitHup Repository
-Video Demo of application: https://watch.screencastify.com/v/3A24LxaQmjPwr7FaBA2C
+Video demo of application: https://watch.screencastify.com/v/3A24LxaQmjPwr7FaBA2C
 
 URL for GitHub repository: https://github.com/staazmeister/professional-README-Generator.git
