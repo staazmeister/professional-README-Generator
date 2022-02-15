@@ -1,6 +1,6 @@
 # Professional README Generator
 Week 9 Homework
-This week's project was to build a command-line application that generates a README file utilizing the node index.js command. This app should assist user's in speading less time on their README.md file and more time working on their project.
+This week's project was to build a command-line application that generates a README file utilizing the node index.js command. This app should assist user's in spending less time on their README.md file and more time working on their project.
 
 
 ## User Story (provided in the homework instructions)
