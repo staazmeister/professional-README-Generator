@@ -40,13 +40,14 @@ node index.js
 - Utilized command node index.js and inquirer package
 - Used git commands to add, commit, and push all changes on to GitHub repository
 
-## View of how deployed application looks
+## View of how application looks
 
 
 
+![Screen Shot 2022-02-15 at 1 27 50 PM](https://user-images.githubusercontent.com/94095220/154152569-67aeed24-3fad-4375-9da1-9c4572f5b042.png)
 
 
-## Links to Deployed Application
+## Links to Application Video Demo and GitHup Repository
 Video Demo of application: https://watch.screencastify.com/v/3A24LxaQmjPwr7FaBA2C
 
 URL for GitHub repository: https://github.com/staazmeister/professional-README-Generator.git
