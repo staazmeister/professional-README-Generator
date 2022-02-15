@@ -29,13 +29,13 @@ const questions = [
     {
         name: "Usage",
         type: "input",
-        message: "What is this app used for?",
+        message: "What is this application used for?",
 
     },
     //License component
     {
         name: 'license',
-        message: 'Select kind of license for this application:',
+        message: 'Select the kind of license you would like to use this application:',
         type: 'list',
         choices: [
             'Apache',
