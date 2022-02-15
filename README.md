@@ -10,7 +10,6 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
 ```
-
 ## Acceptance Criteria (provided in the homework instructions)
 ```
 GIVEN a command-line application that accepts user input
