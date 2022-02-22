@@ -9,10 +9,10 @@ This week's project was to build a command-line application that generates a REA
 4. In the console, type the command "git clone" and paste the link to repository
 5. Open repository in preferred code editor
 6. Open terminal in code editor
-7. Type in terminal "npm i" or "npm install" to install dependency packages needed
+7. Type in terminal "npm init -y" to install dependency packages needed
 
 Ensure the following packages are installed
-    - Inquirer (If not inlcuded, you can install by typing "npm install inquirer" in the terminal)
+- Inquirer (If not inlcuded, you can install by typing "npm install inquirer" in the terminal)
 
 
 # Usage
