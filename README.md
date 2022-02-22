@@ -2,6 +2,24 @@
 Week 9 Homework
 This week's project was to build a command-line application that generates a README file utilizing the node index.js command. This app should assist user's in spending less time on their README.md file and more time working on their project.
 
+# Installation
+1. Copy the clone link of the repository from GitHub
+2. Open Bash or Terminal Window
+3. When the console opens, navigate to the directory the repository will be added to
+4. In the console, type the command "git clone" and paste the link to repository
+5. Open repository in preferred code editor
+6. Open terminal in code editor
+7. Type in terminal "npm i" or "npm install" to install dependency packages needed
+
+Ensure the following packages are installed
+    - Inquirer (If not inlcuded, you can install by typing "npm install inquirer" in the terminal)
+
+
+# Usage
+1. The user will navigate to index.js file in terminal
+2. The user will type "node index.js" to initiate the application and prompts for the user to complete
+3. Once the user has answered all prompts, the README.md file will be generated in the "Generated_README" folder
+
 
 ## User Story (provided in the homework instructions)
 ```
@@ -37,7 +55,8 @@ Skills to be implemented on this project are:
 node index.js
 
 ## Actions taken for this project
-- Utilized command node index.js and inquirer package
+- Utilized command node index.js 
+- Utilized inquirer 
 - Used git commands to add, commit, and push all changes on to GitHub repository
 
 ## View of how application looks
